@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://cyher.github.com/sitemap.xml 
+Sitemap: http://cyher.net/sitemap.xml 
